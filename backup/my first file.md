@@ -1,2 +1,1 @@
-1. the best IP  123.234.345.456
-2. the proxy IP 333.444.555.666
+I have a window that can let me see the world and write you the world  I see.
