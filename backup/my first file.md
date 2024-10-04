@@ -1,6 +1,34 @@
 I have a window that can let me see the world and write you the world  I see.
 <head></head>
 
+99.83.209.185	443	true	IAD	North America	Ashburn	101 ms	10085 kB/s
+3.101.110.90	80	true	SJC	North America	San Jose	198 ms	7842 kB/s
+13.53.81.150	2083	true	ARN	Europe	Stockholm	201 ms	6729 kB/s
+35.167.93.200	443	true	SEA	North America	Seattle	202 ms	6104 kB/s
+13.50.173.22	8443	true	ARN	Europe	Stockholm	202 ms	5536 kB/s
+204.110.223.255	80	true	CMH	North America	Columbus	231 ms	5346 kB/s
+204.110.223.6	80	true	CMH	North America	Columbus	230 ms	5096 kB/s
+15.156.203.151	8443	true	YUL	North America	Montréal	249 ms	4780 kB/s
+13.51.55.184	2053	true	ARN	Europe	Stockholm	191 ms	3772 kB/s
+13.41.76.64	8080	true	LHR	Europe	London	192 ms	3128 kB/s
+204.110.223.167	80	true	CMH	North America	Columbus	229 ms	2844 kB/s
+13.53.132.96	8080	true	OSL	Europe	Oslo	198 ms	2830 kB/s
+13.53.54.176	8080	true	ARN	Europe	Stockholm	191 ms	2242 kB/s
+3.98.54.22	8443	true	YUL	North America	Montréal	274 ms	2191 kB/s
+13.53.51.77	8080	true	ARN	Europe	Stockholm	194 ms	984 kB/s
+13.201.221.231	443	true	BOM	Asia Pacific	Mumbai	307 ms	339 kB/s
+18.189.94.250	443	true	CMH	North America	Columbus	235 ms	160 kB/s
+204.110.220.135	80	true	SEA	North America	Seattle	200 ms	147 kB/s
+204.110.221.48	80	true	SEA	North America	Seattle	196 ms	124 kB/s
+18.135.188.86	443	true	LHR	Europe	London	193 ms	102 kB/s
+3.99.106.179	443	true	YUL	North America	Montréal	253 ms	83 kB/s
+3.98.73.243	443	true	YUL	North America	Montréal	248 ms	83 kB/s
+15.157.7.168	443	true	YUL	North America	Montréal	281 ms	67 kB/s
+44.227.22.10	443	true	SEA	North America	Seattle	197 ms	45 kB/s
+3.111.155.29	443	true	BOM	Asia Pacific	Mumbai	299 ms	43 kB/s
+13.49.166.245	443	true	ARN	Europe	Stockholm	184 ms	9 kB/s
+13.40.128.14	8443	true	LHR	Europe	London	188 ms	0 kB/s
+
 149.104.35.83	9888	true	MRS	Europe	Marseille	68 ms	5885 kB/s
 154.197.92.86	9888	true	MRS	Europe	Marseille	79 ms	5636 kB/s
 154.197.92.73	9888	true	MRS	Europe	Marseille	68 ms	5563 kB/s
