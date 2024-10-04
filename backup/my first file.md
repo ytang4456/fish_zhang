@@ -1,4 +1,3 @@
-
 I have a window that can let me see the world and write you the world  I see.
 <head></head>
 
